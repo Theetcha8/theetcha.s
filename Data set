@@ -1,0 +1,73 @@
+1. [US Accident Dataset (Kaggle)]
+
+Source: Kaggle - US Accidents (2016-2023)
+
+Details:
+
+Covers over 2.5 million accidents in the US.
+
+Includes features such as location, time, weather, visibility, and severity.
+
+Ideal for accident severity prediction, hotspot detection, and time-based analysis.
+
+
+
+
+---
+
+2. [UK Road Safety Data (Department for Transport)]
+
+Source: UK Government Data Portal
+
+Details:
+
+Annual data of road accidents in the UK.
+
+Contains accident severity, vehicle details, road conditions, and casualty data.
+
+
+
+
+---
+
+3. [India Road Accident Data (MoRTH)]
+
+Source: Ministry of Road Transport and Highways (MoRTH)
+
+Link: MoRTH Reports & Data
+
+Details:
+
+Yearly reports (PDF/Excel) of road accidents across Indian states.
+
+Might need data cleaning and formatting to be AI-ready.
+
+
+
+
+---
+
+4. [City of Austin Traffic Accidents (Open Data Portal)]
+
+Source: Austin Open Data
+
+Details:
+
+Real-time and historical traffic crash data.
+
+Includes geolocation, crash type, and conditions.
+
+
+
+
+---
+
+5. [Berkeley DeepDrive (BDD100K)]
+
+Source: BDD100K
+
+Details:
+
+100K driving videos with annotations.
+
+Useful for real-time video-based accident prediction with computer vision.
